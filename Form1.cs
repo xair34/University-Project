@@ -18,7 +18,7 @@ namespace VSP_46219R_MyProject
         bool playerShoot;
         // keep count of score and killd enemies
         int levelOneCount = 15;
-        int levelTwoCount = 24;
+        int levelTwoCount = 25-1;
         int score = 0;
         int killCount = 0;
         int lives = 3;
